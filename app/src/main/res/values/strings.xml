@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Coffe Menu</string>
+    <!--  Resource nama-nama minuman  -->
+    <string name="americano_1">Americano 1</string>
+    <string name="americano_2">Americano 2</string>
+    <string name="americano_3">Americano 3</string>
+    <string name="black_coffee_1">Black Coffee 1</string>
+    <string name="black_coffee_2">Black Coffee 2</string>
+    <string name="black_coffee_3">Black Coffee 3</string>
+    <string name="cappuccino_1">Cappuccino 1</string>
+    <string name="cappuccino_2">Cappuccino 2</string>
+    <string name="cappuccino_3">Cappuccino 3</string>
+    <string name="espresso_1">Espresso 1</string>
+    <string name="espresso_2">Espresso 2</string>
+    <string name="espresso_3">Espresso 3</string>
+    <string name="latte_1">Latte 1</string>
+    <string name="latte_2">Latte 2</string>
+    <string name="latte_3">Latte 3</string>
+    <string name="macchiato_1">Macchiato 1</string>
+    <string name="macchiato_2">Macchiato 2</string>
+    <string name="macchiato_3">Macchiato 3</string>
+
+
+</resources>
